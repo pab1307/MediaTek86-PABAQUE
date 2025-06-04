@@ -1,1 +1,0 @@
-# MediaTek86-PABAQUE
