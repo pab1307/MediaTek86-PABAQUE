@@ -1,0 +1,138 @@
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.csproj.AssemblyReference.cache
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.Properties.Resources.resources
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.view.FrmAbsences.resources
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.view.FrmConnexion.resources
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.view.FrmGestionPersonnel.resources
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.csproj.GenerateResource.cache
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.csproj.CoreCompileInputs.cache
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\MediaTek86.exe.config
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\MediaTek86.xml
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\MediaTek86.exe
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\MediaTek86.pdb
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\BouncyCastle.Cryptography.dll
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\Google.Protobuf.dll
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\K4os.Compression.LZ4.dll
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\K4os.Hash.xxHash.dll
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\MySql.Data.dll
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\System.Buffers.dll
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\System.IO.Pipelines.dll
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\System.Memory.dll
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\System.Numerics.Vectors.dll
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\ZstdSharp.dll
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\BouncyCastle.Cryptography.xml
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\Google.Protobuf.pdb
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\Google.Protobuf.xml
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\K4os.Compression.LZ4.xml
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\K4os.Hash.xxHash.xml
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\MySql.Data.xml
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\System.Buffers.xml
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\System.IO.Pipelines.xml
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\System.Memory.xml
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\System.Numerics.Vectors.xml
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.csproj.Up2Date
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.exe
+F:\CNED BTS SIO option SLAM\SLAM-Ateliers de professionnalisation\Devoir\Ressources Devoir 2\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.pdb
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\MediaTek86.exe.config
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\MediaTek86.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\MediaTek86.exe
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\MediaTek86.pdb
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\Google.Protobuf.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\MySql.Data.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\System.Buffers.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\System.IO.Pipelines.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\System.Memory.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\ZstdSharp.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\Google.Protobuf.pdb
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\Google.Protobuf.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\MySql.Data.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\System.Buffers.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\System.IO.Pipelines.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\System.Memory.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.csproj.AssemblyReference.cache
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.Properties.Resources.resources
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.view.FrmAbsences.resources
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.view.FrmConnexion.resources
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.view.FrmGestionPersonnel.resources
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.csproj.GenerateResource.cache
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.csproj.CoreCompileInputs.cache
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.csproj.Up2Date
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.exe
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.pdb
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\obj\Debug\MediaTek86.csproj.AssemblyReference.cache
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\obj\Debug\MediaTek86.Properties.Resources.resources
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\obj\Debug\MediaTek86.view.FrmAbsences.resources
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\obj\Debug\MediaTek86.view.FrmConnexion.resources
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\obj\Debug\MediaTek86.view.FrmGestionPersonnel.resources
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\obj\Debug\MediaTek86.csproj.GenerateResource.cache
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\obj\Debug\MediaTek86.csproj.CoreCompileInputs.cache
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\obj\Debug\MediaTek86.exe
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\obj\Debug\MediaTek86.pdb
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\MediaTek86.exe.config
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\MediaTek86.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\MediaTek86.exe
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\MediaTek86.pdb
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\Google.Protobuf.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\MySql.Data.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\System.Buffers.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\System.IO.Pipelines.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\System.Memory.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\ZstdSharp.dll
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\Google.Protobuf.pdb
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\Google.Protobuf.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\MySql.Data.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\System.Buffers.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\System.IO.Pipelines.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\System.Memory.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\elfir\Documents\CNED\BTS_SIO\MediaTek86\MediaTek86-master_v2\MediaTek86\obj\Debug\MediaTek86.csproj.Up2Date
